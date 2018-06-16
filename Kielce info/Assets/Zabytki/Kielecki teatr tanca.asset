@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89b3081a1992784c8d07454d6c5939d, type: 3}
+  m_Name: Kielecki teatr tanca
+  m_EditorClassIdentifier: 
+  namePL: Kielecki Teatr Tanca
+  nameEN: Kielce Dance Theater
+  locationPL: Plac Moniuszki 2B
+  locationEN: Square Moniuszki 2B
+  type: Uzytkowe
+  descriptionPL: " Pierwotnie prywatny teatr za\u0142o\u017Cony przez El\u017Cbiet\u0119
+    Pa\u0144tak. W 2004 roku zosta\u0142 przekszta\u0142cony w miejsk\u0105 instytucj\u0119
+    kultury. "
+  descriptionEN: " Primaly private teather suppose by El\u017Cbiet\u0119 Pa\u0144tak.
+    In 2004 was converted to a municipal cultural institution."
+  urlImage: http://www.wici.info/upload/lokale/foto/1362081683.jpg

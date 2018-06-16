@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89b3081a1992784c8d07454d6c5939d, type: 3}
+  m_Name: "Pomnik Niepodleg\u0142o\u015Bci"
+  m_EditorClassIdentifier: 
+  namePL: Pomnik Niepodleglosci
+  nameEN: Independence Monument
+  locationPL: Dworzec PKP
+  locationEN: PKP station
+  type: Zabytki
+  descriptionPL: " W miejscu gdzie dosz\u0142o do pierwszej zbrojnej konfrontacji
+    Pierwszej Kompanii Kadrowej z patrolem rosyjskim (12 sierpnia 1914 r.)."
+  descriptionEN: 'In the place where the first armed confrontation between the First
+    Personnel Company and the Russian patrol took place (12 August 1914). '
+  urlImage: http://www.um.kielce.pl/gfx/kielce2/_thumbs/pl/defaultopisy/3068/1/1/ZFaIwH2Kaqq6tJlMeYM,pom1.jpg

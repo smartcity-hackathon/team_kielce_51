@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89b3081a1992784c8d07454d6c5939d, type: 3}
+  m_Name: Muzeum Zabawek
+  m_EditorClassIdentifier: 
+  namePL: Muzeum Zabawek
+  nameEN: Toy Museum
+  locationPL: "Plac Wolno\u015Bci"
+  locationEN: Freedom Square
+  type: Uzytkowe
+  descriptionPL: ' Muzeum poswiecone zabawka ,stworzone w 1979 roku.'
+  descriptionEN: ' Museum sacred toys ,created in 1979 year.'
+  urlImage: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kielce_muzeum_zabawek.jpg/180px-Kielce_muzeum_zabawek.jpg
